@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hammed Bankole</h1>
 <h3 align="center">A passionate Software Engineer from Lagos, Nigeria</h3>
-<img align="right" alt="Coding" width="400" src="https://www.cleanpng.com/png-computer-programming-programmer-icon-design-softwa-106097/">
+<img align="right" alt="Coding" width="400" src="coder-png-transparent-image.jpg">
 
 - 🔭 I’m currently working on [Combyn Web App](https://combyn123.netlify.app/)
 
