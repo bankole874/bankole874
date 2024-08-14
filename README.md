@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hammed Bankole</h1>
-<h3 align="center">A passionate Software Engineer from Lagos, Nigeria</h3>
+<h3 align="center">A passionate DevOps/Software Engineer from Lagos, Nigeria</h3>
 <img align="right" alt="Coding" width="300" src="kisspng-computer-programming-programmer-icon-design-softwa-coder-png-transparent-image-5a756d89c09351.0972296815176451937888.png">
 
 - 🔭 I’m currently working on [Combyn Web App](https://combyn123.netlify.app/)
